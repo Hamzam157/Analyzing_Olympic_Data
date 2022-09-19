@@ -1,5 +1,7 @@
 # Analyzing Olympic Data from 1928-2012 and Drawing Insights using Hypothesis Testing
 
+Please note: *1896-1924 Olympics data was inconclusive* Therefore, insights from 1928-2012 are more accurate for this analyis
+
 Python Libraries Used:-
                       Pandas (To import , merge and clean Data)
                       Scipy (To run stastical Tests on our Data)
