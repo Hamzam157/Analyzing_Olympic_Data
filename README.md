@@ -4,7 +4,7 @@ Please note: *1896-1924 Olympics data was inconclusive* Therefore, insights from
 
 Python Libraries Used:-
                       Pandas (To import , merge and clean Data)
-                      Scipy (To run stastical Tests on our Data)
+                      Scipy (To run stastical Tests)
                       Matplotlib and Seaborn (In order to create Visualizations)
                       
 Please go through the Jupyter Notebook in this repo in order to understand the reasoning behind the drawn insights 
